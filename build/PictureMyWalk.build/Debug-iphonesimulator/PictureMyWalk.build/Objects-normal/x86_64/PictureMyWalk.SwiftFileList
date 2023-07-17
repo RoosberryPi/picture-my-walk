@@ -1,0 +1,14 @@
+/Users/rosa/picture-my-walk/PictureMyWalk/Core/Feed/Views/FeedView.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Models/FeedModel.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Core/Components/FeedImage/FeedImageViewModel.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Core/Feed/Views/FeedRowView.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Core/Feed/ViewModels/FeedViewModel.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Utilities/LocationManager.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Services/FeedImageService.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/PictureMyWalk.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Extensions/PreviewProvider.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Models/UserLocation.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Services/FeedDataService.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Models/FlickrAPI.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Utilities/NetworkingManager.swift
+/Users/rosa/picture-my-walk/PictureMyWalk/Core/Components/FeedImage/FeedImageView.swift

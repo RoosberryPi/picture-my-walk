@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "654092457fa78f52316f3f3617c91d9432cf8abb69b61b6b2d371b1aacaa2784"
+build_start_time: [1689601876, 23600000]
+build_end_time: [1689601877, 720401000]
+inputs:
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Core/Components/FeedImage/FeedImageView.swift": [1689601872, 243201335]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Core/Components/FeedImage/FeedImageViewModel.swift": [1689601872, 252538402]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Core/Feed/ViewModels/FeedViewModel.swift": [1689601872, 234476232]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Core/Feed/Views/FeedRowView.swift": [1689601872, 222972515]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Core/Feed/Views/FeedView.swift": [1689601872, 209981452]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Extensions/PreviewProvider.swift": [1689601872, 177749473]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Models/FeedModel.swift": [1689601872, 187184129]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Models/FlickrAPI.swift": [1689601872, 194461464]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Models/UserLocation.swift": [1689601872, 201855886]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/PictureMyWalk.swift": [1689601872, 263243446]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Services/FeedDataService.swift": [1689601872, 150545555]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Services/FeedImageService.swift": [1689601872, 139469426]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Utilities/LocationManager.swift": [1689601872, 167908524]
+  "/Users/rosa/picture-my-walk/PictureMyWalk/Utilities/NetworkingManager.swift": [1689369863, 85331202]
